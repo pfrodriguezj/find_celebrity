@@ -15,7 +15,7 @@ For example, the next matrix represents a population where person in position 4 
 
 BUILD
 
-Download or clone Git repo: https://github.com/pfrodriguezj/Celebrities.git
+Download or clone Git repo: https://github.com/pfrodriguezj/find_celebrity
 Import project as a maven project
 Run Maven -> build with goals "clean compile assembly:single"
 

@@ -1,0 +1,36 @@
+2019-07-16 16:40:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:41:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:42:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:43:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:43:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:45:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:53:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:55:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:56:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:58:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 16:58:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]
+2019-07-16 17:00:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TABLA" already exists; SQL statement:
+CREATE TABLE tabla(id int primary key, k1 boolean, k2 boolean, k3 boolean, k4 boolean, k5 boolean, k6 boolean,k7 boolean, k8 boolean, k9 boolean, k10 boolean) [42101-199]

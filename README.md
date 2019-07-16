@@ -6,11 +6,11 @@ A celebrity is a person who is known by every one, but doesn't know anybody.
 The population is modeled by an int's matrix, where each position represents if a person (row) knows other person (column).
 For example, the next matrix represents a population where person in position 4 (in a zero based count) is the celebrity and person in position 0 knows everyone else.
 
-1, 0, 0, 0, 1 
-1, 0, 1, 0, 1
-1, 1, 0, 0, 1
-0, 1, 0, 0, 1
-0, 0, 0, 0, 1
+1, 0, 0, 0, 1 <br/>
+1, 0, 1, 0, 1 <br/>
+1, 1, 0, 0, 1 <br/>
+0, 1, 0, 0, 1 <br/>
+0, 0, 0, 0, 1 <br/>
 
 
 BUILD
